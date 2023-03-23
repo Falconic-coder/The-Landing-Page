@@ -119,6 +119,8 @@ main{
     justify-content: space-between;
     padding-left: 300px;
     padding-right: 300px;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
 
